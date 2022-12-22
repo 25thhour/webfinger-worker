@@ -1,0 +1,4 @@
+name = "webfinger-worker"
+main = "src/index.ts"
+compatibility_date = "2022-12-22"
+route = "jwdn.cc/.well-known/webfinger*"  # change the hostname
